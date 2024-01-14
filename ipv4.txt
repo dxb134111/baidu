@@ -16,7 +16,7 @@ http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV5p
 http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV6
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" group-title="🇨🇳｜央视频道V4",CCTV7国防军事
 http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV7
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" group-title="🇨🇳｜央视频道V4",CCTV8电视https://dxb134111.github.io/baidu/ipv4.json
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" group-title="🇨🇳｜央视频道V4",CCTV8电视
 http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" tvg-id="CCTV9记录" tvg-name="CCTV9记录" group-title="🇨🇳｜央视频道V4",CCTV9记录
 http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV9
